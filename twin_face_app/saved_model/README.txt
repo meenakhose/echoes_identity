@@ -1,0 +1,1 @@
+Place your siamese_model.h5 file in this folder.
